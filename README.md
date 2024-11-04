@@ -27,4 +27,4 @@ Performance is measured using Root Mean Square Error (RMSE), which quantifies th
 - Wide value ranges with notable outliers
 - Positive correlations between price and newer vehicle attributes
 - Negative correlations with lower efficiency metrics
-- Skewed distributions with concentration around intermediate values
+- Skewed distributions with concentration values
